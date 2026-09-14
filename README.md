@@ -1,2 +1,11 @@
-# bd1-redsocial-grupo8
-Modelo conceptual y lógico de base de datos (MER/MR) e implementación en SQL para la Red Social Estudiantil Pascualina. Desarrollo de la Tarea 1 para la asignatura Bases de Datos 1.
+# RED SOCIAL ESTUDIANTIL PASCUALINA 
+
+### Integrantes
+Lethy Stefania Valderrama Reyes
+
+### Descripción
+La comunidad de la Institución Universitaria Pascual Bravo requiere un espacio de interacción informal que complemente sus plataformas académicas institucionales. A partir de los requerimientos analizados, se diseñó un modelo conceptual enfocado en facilitar:
+- La creación de perfiles dinámicos e integración con mentorías.
+- La gestión de competencias (habilidades e intereses).
+- La creación de comunidades académicas (grupos y eventos).
+- La interacción social fluida (conexiones, publicaciones y comentarios).
